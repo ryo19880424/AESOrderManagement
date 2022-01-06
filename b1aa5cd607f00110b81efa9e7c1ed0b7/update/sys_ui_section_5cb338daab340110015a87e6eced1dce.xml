@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="5cb338daab340110015a87e6eced1dce" sys_domain="global" table="sysapproval_approver" version="3" view="custom_portal_approval_x_672301_orderma_0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-01-04 06:02:21</sys_created_on>
+            <sys_id>dcb338da86340110e315471aae788fce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="9cb338da3f340110be635828af3093ce">5cb338daab340110015a87e6eced1dce</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2022-01-04 06:02:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysapproval</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-01-04 06:02:21</sys_created_on>
+            <sys_id>10b338da51340110581907c367f945cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="9cb338da3f340110be635828af3093ce">5cb338daab340110015a87e6eced1dce</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2022-01-04 06:02:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-01-04 06:02:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5cb338daab340110015a87e6eced1dce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="OrderManagement" source="x_672301_orderma_0">b1aa5cd607f00110b81efa9e7c1ed0b7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OrderManagement">b1aa5cd607f00110b81efa9e7c1ed0b7</sys_scope>
+            <sys_update_name>sys_ui_section_5cb338daab340110015a87e6eced1dce</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2022-01-04 06:02:21</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal (x_672301_orderma_0 )" name="custom_portal_approval_x_672301_orderma_0">9cb338da3f340110be635828af3093ce</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ApplicationInfo" max_length="40" name="x_672301_orderma_0_applicationinfo" sizeclass="2" type="collection">
+        <element default="javascript:global.getNextObjNumberPadded();" label="ApplicationNo" max_length="40" name="applicationno" type="string"/>
+        <element label="Applied" max_length="40" name="applied" type="glide_date"/>
+        <element label="Approved" max_length="40" name="approved" type="glide_date"/>
+        <element label="Approver" max_length="32" name="approver" reference="x_672301_orderma_0_membermaster" type="reference"/>
+        <element label="Comment" max_length="1000" name="comment" type="string"/>
+        <element choice="3" label="IsApproved" max_length="40" name="isapproved" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="requested" sequence="10" value="requested"/>
+                <element inactive_on_update="false" label="approved" sequence="20" value="approved"/>
+                <element inactive_on_update="false" label="rejected" sequence="30" value="rejected"/>
+            </choice>
+        </element>
+        <element label="Name" max_length="32" name="name" reference="x_672301_orderma_0_membermaster" type="reference"/>
+        <element label="TargetDate" max_length="32" name="targetdate" reference="x_672301_orderma_0_workingdaymaster" type="reference"/>
+        <element label="Uptime" max_length="20" name="uptime" type="decimal"/>
+        <element label="WorkingDate" max_length="40" name="workingdate" type="integer"/>
+        <index name="index">
+            <element name="approver"/>
+        </index>
+        <index name="index2">
+            <element name="targetdate"/>
+        </index>
+        <index name="index3">
+            <element name="name"/>
+        </index>
+    </element>
+</database>

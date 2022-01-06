@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="WorkingDetail" max_length="40" name="x_672301_orderma_0_workingdetail" sizeclass="0" type="collection">
+        <element label="AssignBudget" max_length="40" name="assignbudget" type="integer"/>
+        <element label="AssignOrder" max_length="32" name="assignorder" reference="x_672301_orderma_0_ordermaster" type="reference"/>
+        <element label="AssignUptime" max_length="20" name="assignuptime" type="decimal"/>
+        <element label="Name" max_length="32" name="name" reference="x_672301_orderma_0_membermaster" type="reference"/>
+        <element label="TargetDate" max_length="32" name="targetdate" reference="x_672301_orderma_0_workingdaymaster" type="reference"/>
+        <index name="index">
+            <element name="targetdate"/>
+        </index>
+        <index name="index2">
+            <element name="assignorder"/>
+        </index>
+        <index name="index3">
+            <element name="name"/>
+        </index>
+    </element>
+</database>

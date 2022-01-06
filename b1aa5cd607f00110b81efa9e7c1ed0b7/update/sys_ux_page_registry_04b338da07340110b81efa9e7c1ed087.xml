@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>08b338da07340110b81efa9e7c1ed087</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login","logout": "login"}</auth_routes>
+        <page/>
+        <path>ordermanagementportal</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-01-04 06:02:27</sys_created_on>
+        <sys_id>04b338da07340110b81efa9e7c1ed087</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OrderManagementPortal</sys_name>
+        <sys_package display_value="OrderManagement" source="x_672301_orderma_0">b1aa5cd607f00110b81efa9e7c1ed0b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OrderManagement">b1aa5cd607f00110b81efa9e7c1ed0b7</sys_scope>
+        <sys_update_name>sys_ux_page_registry_04b338da07340110b81efa9e7c1ed087</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-01-04 06:02:27</sys_updated_on>
+        <title>OrderManagementPortal</title>
+    </sys_ux_page_registry>
+</record_update>
