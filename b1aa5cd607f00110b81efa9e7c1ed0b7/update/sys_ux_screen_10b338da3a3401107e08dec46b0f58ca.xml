@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="OrderManagementPortal Config">08b338da07340110b81efa9e7c1ed087</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Additional Details">54b338da363401105545aedc5a264ac8</macroponent>
+        <macroponent_config>{
+  "sysId" : "@context.props.sysId",
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "none",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Additional Details Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Record Page(task)">d0b338dafc340110dbcb2b9533ea9fbd</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="Additional Details">1cb338daa33401107168d2ddf673c5bf</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-01-04 06:02:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>10b338da3a3401107e08dec46b0f58ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Additional Details Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="OrderManagement" source="x_672301_orderma_0">b1aa5cd607f00110b81efa9e7c1ed0b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OrderManagement">b1aa5cd607f00110b81efa9e7c1ed0b7</sys_scope>
+        <sys_update_name>sys_ux_screen_10b338da3a3401107e08dec46b0f58ca</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-01-04 06:02:24</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=10b338da3a3401107e08dec46b0f58ca"/>
+</record_update>

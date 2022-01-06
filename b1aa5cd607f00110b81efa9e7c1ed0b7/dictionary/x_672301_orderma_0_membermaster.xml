@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="MemberMaster" max_length="40" name="x_672301_orderma_0_membermaster" sizeclass="5" type="collection">
+        <element label="Grade" max_length="32" name="grade" reference="x_672301_orderma_0_grademaster" type="reference"/>
+        <element display="true" label="Name" max_length="32" name="name" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="grade"/>
+        </index>
+        <index name="index2">
+            <element name="name"/>
+        </index>
+    </element>
+</database>

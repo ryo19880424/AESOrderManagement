@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="grade" table="x_672301_orderma_0_grademaster" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>grade</element>
+            <name>x_672301_orderma_0_grademaster</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-04 04:16:16</sys_created_on>
+            <sys_id>226bd41a07f00110b81efa9e7c1ed0c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>grade</sys_name>
+            <sys_package display_value="OrderManagement" source="x_672301_orderma_0">b1aa5cd607f00110b81efa9e7c1ed0b7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OrderManagement">b1aa5cd607f00110b81efa9e7c1ed0b7</sys_scope>
+            <sys_update_name>sys_choice_x_672301_orderma_0_grademaster_grade</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-04 04:16:16</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>grade</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>01</label>
+            <language>en</language>
+            <name>x_672301_orderma_0_grademaster</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-04 04:16:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>626bd41a07f00110b81efa9e7c1ed0c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-04 04:16:15</sys_updated_on>
+            <value>01</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>grade</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>02</label>
+            <language>en</language>
+            <name>x_672301_orderma_0_grademaster</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-04 04:16:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>766bd41a07f00110b81efa9e7c1ed0d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-04 04:16:16</sys_updated_on>
+            <value>02</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>grade</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>03</label>
+            <language>en</language>
+            <name>x_672301_orderma_0_grademaster</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-04 04:16:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>366bd41a07f00110b81efa9e7c1ed0c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-04 04:16:16</sys_updated_on>
+            <value>03</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>grade</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>04</label>
+            <language>en</language>
+            <name>x_672301_orderma_0_grademaster</name>
+            <sequence>40</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-04 04:16:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>766bd41a07f00110b81efa9e7c1ed0cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-04 04:16:17</sys_updated_on>
+            <value>04</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>grade</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>05</label>
+            <language>en</language>
+            <name>x_672301_orderma_0_grademaster</name>
+            <sequence>50</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-04 04:16:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f26bd41a07f00110b81efa9e7c1ed0d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-04 04:16:17</sys_updated_on>
+            <value>05</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

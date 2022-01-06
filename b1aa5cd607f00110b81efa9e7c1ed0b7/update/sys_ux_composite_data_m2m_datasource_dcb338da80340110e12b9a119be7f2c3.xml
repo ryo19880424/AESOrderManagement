@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Catalog Item page - Related Items dataset">90b338da25340110392beba1cfdeccc3</dataset>
+        <datasource display_value="Custom Portal Catalog Item page - Related Items Datasource">1cb338dad3340110996b4969ee010dc3</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-01-04 06:02:26</sys_created_on>
+        <sys_id>dcb338da80340110e12b9a119be7f2c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="OrderManagement" source="x_672301_orderma_0">b1aa5cd607f00110b81efa9e7c1ed0b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OrderManagement">b1aa5cd607f00110b81efa9e7c1ed0b7</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_dcb338da80340110e12b9a119be7f2c3</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-01-04 06:02:26</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>
